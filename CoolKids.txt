@@ -12,6 +12,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Micah
 Allie Kenney
 $ean Chocallo
+Jynalis D.
 Tevin Motz
 Sebastian
 >>>>>>> 146361cc781ec7045b7fe169f80875dc2491e4b9
