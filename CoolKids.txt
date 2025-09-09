@@ -1,17 +1,12 @@
-<<<<<<< HEAD
-On branch main
-Your branch is up to date with 'origin/main'.
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   CoolKids.txt
 
-no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
 =======
 Micah
 Allie Kenney
 $ean Chocallo
 Tevin Motz
 Sebastian
->>>>>>> 146361cc781ec7045b7fe169f80875dc2491e4b9
+Michael Pucciarelli 
