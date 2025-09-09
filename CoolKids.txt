@@ -1,2 +1,6 @@
 Micah
+<<<<<<< HEAD
 Tevin Motz
+=======
+Sebastian
+>>>>>>> 111486b3a7151f21c83da123f0245b8c54a7c77b
