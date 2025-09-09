@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -7,3 +8,15 @@ Changes not staged for commit:
 	modified:   CoolKids.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+=======
+Micah
+<<<<<<< HEAD
+$ean Chocallo
+=======
+<<<<<<< HEAD
+Tevin Motz
+=======
+Sebastian
+>>>>>>> 111486b3a7151f21c83da123f0245b8c54a7c77b
+>>>>>>> 6ebccb829930342b1dde900c2c7ab3cc3c011f21
+>>>>>>> fdce640f32d70dec450358258a08ebf2c9cdd5f0
